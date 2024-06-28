@@ -1,16 +1,24 @@
-# json_exam
+# Exam: Advance Flutter Exam 1
 
-A new Flutter project.
+## Project Definition :
+### Quotes App
 
-## Getting Started
+### Add Necessary Dependencies
 
-This project is a starting point for a Flutter application.
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+   http: ^1.2.1
+```
 
-A few resources to get you started if this is your first Flutter project:
+Run `flutter pub get` to install the new dependencies.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screenshots :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <p align='center'>
+  <img src='https://github.com/Dipalig971/json_exam/assets/143181151/42e529f0-eec1-4630-99e0-63717125433b' width=240>
+  <img src='https://github.com/Dipalig971/json_exam/assets/143181151/f1d5f6bd-8d48-4f76-9080-1fbf5d6ef4ab' width=240>
+</p>
